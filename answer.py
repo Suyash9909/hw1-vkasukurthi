@@ -30,7 +30,7 @@ def strings():
 
     # What is the length of stevens_7?
 
-    length = len(stevens_7) = 49
+    length = len(stevens_7)
 
     # Concatenate variable stevens with string " is great" and assign it to variable great.
 
